@@ -24,6 +24,6 @@ class UI {
 
 // DOM Events
 
-document.getElementById('product-form').addEventListener('submit', function{
-                                                         alert('Enviando formulario');
+document.getElementById('product-form').addEventListener('submit', function (){
+                                                         alert('Enviando formulario')
                                                          })
